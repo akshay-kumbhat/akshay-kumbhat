@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="spark-l1,spark_l1,spark_l1_5084,spark_l1_9027" />
+  </component>
+</project>
